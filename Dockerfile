@@ -1,4 +1,4 @@
-FROM thomaswelton.com:5000/ruby
+FROM thomaswelton/ruby
 
 MAINTAINER Thomas Welton <thomaswelton@me.com>
 
